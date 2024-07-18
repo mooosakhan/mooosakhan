@@ -4,7 +4,6 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mooosakhan&label=Profile%20views&color=0e75b6&style=flat&count=10" alt="mooosakhan" /> </p>
 
 - 🔭 I’m currently working on **Teacher's Exam Scheduling Software**
 
