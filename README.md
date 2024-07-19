@@ -12,7 +12,7 @@
 
 
 <h4>
-👋 Welcome to my GitHub profile! Hey there! I'm Moosa. 🌟 Due to unforeseen circumstances, I've had to start fresh here on GitHub. My previous profile, where I had over a year's worth of repositories and a great community, unfortunately got deleted.
+👋 Hey there!🌟 Due to unforeseen circumstances, I've had to start fresh here on GitHub. My previous profile, where I had over a year's worth of repositories and a great community, unfortunately got deleted.
 </h4>
 
 - 🔭 I’m currently working on **Teacher's Exam Scheduling Software**
