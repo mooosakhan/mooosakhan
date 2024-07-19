@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>
-
+<div></div>
 <p>
 👋 Welcome to my GitHub profile! Hey there! I'm Moosa. 🌟 Due to unforeseen circumstances, I've had to start fresh here on GitHub. My previous profile, where I had over a year's worth of repositories and a great community, unfortunately got deleted.
 </p>
