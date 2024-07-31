@@ -40,7 +40,7 @@
 
 - 👨‍💻 My Portfolio :  [moosa.portfolio.com](https://mooosakhan.github.io/Portfolio/)
 
-- 📫 How to reach me **23-ai-13@students.duet.edu.pk*
+- 📫 How to reach me **23-ai-13@students.duet.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
