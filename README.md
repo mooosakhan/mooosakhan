@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning *three.js,gsap**
 
-- 👨‍💻 All of my projects are available at [Portfolio.netlify.app](Portfolio.netlify.app)
+- 👨‍💻 My Portfolio :  [moosa.portfolio.com](https://mooosakhan.github.io/Portfolio/)
 
 - 📫 How to reach me **moosakhan3856902@gmail.com**
 
