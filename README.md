@@ -45,7 +45,7 @@
 - 👨‍💻 My Current Portfolio :  [New](https://mooosakhan.github.io/Portfolio.me/)
 
 - 📫 How to reach me Email : **23-ai-13@students.duet.edu.pk** <br/>
-                      Phone : *+92 3314027135*  <br/> Linkedin : 
+                      Phone : *+92 3314027135*   
   
 
 
