@@ -41,9 +41,13 @@
 - 🌱 I’m currently learning *three.js,gsap**
 
 - 👨‍💻 My Old Portfolio :  [Old](https://mooosakhan.github.io/Portfolio/)
+
 - 👨‍💻 My Current Portfolio :  [New](https://mooosakhan.github.io/Portfolio.me/)
 
-- 📫 How to reach me **23-ai-13@students.duet.edu.pk**
+- 📫 How to reach me Email : **23-ai-13@students.duet.edu.pk** <br/>
+                      Phone : *+92 3314027135*  <br/> Linkedin : 
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
