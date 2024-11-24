@@ -89,7 +89,7 @@
 ### ⌨️ Backend Technologies
 
 <br>
-
+ 
 [![My Skills](https://skillicons.dev/icons?i=linux,flask,python,mysql,firebase,php,laravel)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
