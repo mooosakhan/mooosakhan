@@ -5,7 +5,7 @@
   
 <br>     
   
-<div align="center">
+<div align="center"> 
   <!-- 동적 뱃지 -->
   <div style="display: flex; justify-content: center; align-items: flex-end;">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> 
