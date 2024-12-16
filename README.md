@@ -1,7 +1,17 @@
- <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.co/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moosa+akhi!;" />
+<h1  align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moosa+akhi!;)
+ 
 </h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3> 
+
+
+
+  <!--  <img src="https://readme-typing-svg.herokuapp.co/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moosa+akhi!;" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hello!+I'm+MOOSA;Thanks+for+checking+out+my+GitHub!;⭐+Anything+you+find+useful!;Contact+me+if+you+have+any+questions!)](https://git.io/typing-svg) -->
+
+
+<h3 align="center">A passionate frontend developer from Pakistan
+</h3> 
    
 <br>   
      
