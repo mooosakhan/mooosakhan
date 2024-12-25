@@ -1,15 +1,37 @@
-<h1 align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moosa+Khan!;)
 
-</h1>
 
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Garden!+✨;Hi+There!+👋;I'm+Moosa+Khan!;+A+Creative+web+Developer+💻" />
+</div>
+
+
+<div align="center">
+  <!-- Dynamic Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=mooosakhan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=3635" alt="Profile Views" />
+</div>
+
+
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="20">
+  A Passionate Frontend Developer from Pakistan 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
+
+<div align="center">
+  <!-- Current Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <!-- Additional Stats Display -->
+
+  <!-- Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooosakhan&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <br>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: flex-end;">
+  <!-- Tech Stack Section with Animated Border -->
+  <div style="border: 2px solid #7F00FF; border-radius: 10px; padding: 20px; background: linear-gradient(45deg, #000428, #004e92);">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -20,74 +42,109 @@
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   </div>
 </div>
 
 <br>
 
-<h4>
-👋 Hey there! Due to unforeseen circumstances, I've had to start fresh here on GitHub. My previous profile, where I had over a year's worth of repositories and a great community, unfortunately got deleted.
-</h4>
+<div align="center">
 
-- 🔭 I’m currently working on **Teacher's Exam Scheduling Software**
-- 🌱 I’m currently learning **three.js, gsap**
-- 👨‍💻 My Old Portfolio : [Old](https://mooosakhan.github.io/Portfolio/)
-- 👨‍💻 My Current Portfolio : [New](https://mooosakhan.github.io/Portfolio.me/)
-- 📫 How to reach me: **23-ai-13@students.duet.edu.pk** <br/>
-                      Phone: **+92 3314027135**
+  <details>
+    <summary style="font-size: 2.5em;"><b>✨ About Me</b></summary>
+    <br>
+    <p style="font-size: 1.5em;"> <!-- Adjusted font size -->
+      👋 Hey there! I'm rebuilding my GitHub presence after my previous profile was lost. With over a year of experience and a passion for creating amazing web experiences, I'm here to contribute and grow with the community! 
+    </p>
+  </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moosa-khan-ab762b299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moosa-khan-ab762b299" height="30" width="40" /></a>
-<a href="https://instagram.com/moosakhan311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moosakhan311" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
 
-### 🌱 I’m currently learning & using
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,py,flask,mongodb,tailwind,threejs,vercel,next)](https://skillicons.dev)
+<!--
+### ⚡ Building Amazing Things
+- 🎯 **Currently Crafting**: AI-Powered Exam Scheduler (revolutionizing how teachers plan)
+- 🚀 **Exploring**: Three.js & GSAP for mind-bending web experiences
+- 🌟 **See My Work**: [Portfolio](https://mooosakhan.github.io/Portfolio.me/) 
+- 🔥 **Tech Arsenal**: React, Node.js, Three.js, and a pinch of magic ✨
+-->
 
 <br>
 
-### 🛠 Programming Languages
+<div align="center">
 
-<br>
+  
+  #  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect!
+  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py)](https://skillicons.dev)
+</div>
 
-<br>
-
-### 💻 Frontend Technologies
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,threejs,vercel,vite,tailwind,bootstrap)](https://skillicons.dev)
-
-<br>
-
-### ⌨️ Backend Technologies
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=flask,python,php,laravel,mysql,nodejs,express,mongodb,firebase)](https://skillicons.dev)
-
-<br>
-
-### 📋 Configuration Management
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-<br>
 
 <p align="center">
-  <img width="1000" src="github-snake.svg" alt="snake"/>
+  <a href="https://linkedin.com/in/moosa-khan-ab762b299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/moosakhan311">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:23-ai-13@students.duet.edu.pk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/923314027135">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
-*<h3 align="center">⭐ If you find my work helpful, please consider giving a star! I'm very close to achieving the Starstruck badge! ⭐</h3>*
+<br>
+
+<div align="center">
+  <h1>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> 
+    Tech Stack
+  </h1>
+</div>
+
+<!--#  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack-->
+
+<div align="center">
+  
+
+
+#### 🌱 Currently Mastering
+[![Current Stack](https://skillicons.dev/icons?i=nodejs,react,py,flask,mongodb,tailwind,threejs,vercel,next)](https://skillicons.dev)
+
+#### 🛠️ Programming Arsenal
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,py)](https://skillicons.dev)
+
+#### 🎨 Frontend Crafts
+[![Frontend](https://skillicons.dev/icons?i=js,react,next,threejs,vercel,vite,tailwind,bootstrap)](https://skillicons.dev)
+
+#### ⚙️ Backend Solutions
+[![Backend](https://skillicons.dev/icons?i=flask,python,php,laravel,mysql,nodejs,express,mongodb,firebase)](https://skillicons.dev)
+
+#### 🔧 Development Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+
+
+</div>
+
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="github-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<div align="center">
+  <h3>⭐ Love what you see? Consider giving a star! ⭐</h3>
+  <p>Help me reach the Starstruck badge! Every star means a lot! 🌟</p>
+  
+  ![Made with ❤️ by Moosa](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)
+</div>
+
+<!-- Custom Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
