@@ -141,7 +141,7 @@
 
 <div align="center">
   <h3>⭐ Love what you see? Consider giving a star! ⭐</h3>
-  <p>Help me reach the Starstruck badge! Every star means a lot! 🌟</p>
+
   
   ![Made with ❤️ by Moosa](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)
 </div>
