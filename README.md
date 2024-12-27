@@ -19,13 +19,35 @@
 
 <div align="center">
   <!-- Current Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <picture>
+    <!-- For dark theme -->
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- For light theme -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </picture>
   <br>
   <!-- Additional Stats Display -->
-
-  <!-- Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooosakhan&layout=compact&theme=radical" alt="Top Languages" />
+  <picture>
+    <!-- For dark theme -->
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mooosakhan&layout=compact&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- For light theme -->
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooosakhan&layout=compact&theme=default"
+      alt="Top Languages"
+    />
+  </picture>
 </div>
+
+
 
 <br>
 
@@ -131,8 +153,33 @@
 
 <br>
 
+<!--
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true" />
+</picture>
+
+-->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=radical" alt="GitHub Streak"/>
+ <!-- For dark theme -->
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- For light theme -->
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=default"
+      alt="GitHub Streak"
+    />
+  </picture>
 </div>
 
 <div align="center">
