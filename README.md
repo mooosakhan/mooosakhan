@@ -133,7 +133,7 @@
 
 
 #### 🌱 Currently Mastering
-[![Current Stack](https://skillicons.dev/icons?i=nodejs,react,py,flask,mongodb,tailwind,threejs,vercel,next)](https://skillicons.dev)
+[![Current Stack](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,threejs,next)](https://skillicons.dev)
 
 #### 🛠️ Programming Arsenal
 [![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,py)](https://skillicons.dev)
