@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=mooosakhan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=3635" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mooosakhan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=2900" alt="Profile Views" />
 </div>
 
 
