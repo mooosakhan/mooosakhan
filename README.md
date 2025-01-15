@@ -26,25 +26,11 @@
       media="(prefers-color-scheme: dark)"
     />
     <!-- For light theme -->
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-    />
+   
   </picture>
   <br>
   <!-- Additional Stats Display -->
-  <picture>
-    <!-- For dark theme -->
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mooosakhan&layout=compact&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <!-- For light theme -->
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooosakhan&layout=compact&theme=default"
-      alt="Top Languages"
-    />
-  </picture>
+
 </div>
 
 
@@ -166,9 +152,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true" />
 </picture>
 
--->
+
 <div align="center">
- <!-- For dark theme -->
+ <!--
   <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=radical"
@@ -180,7 +166,7 @@
       alt="GitHub Streak"
     />
   </picture>
-</div>
+</div>-->
 
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/>
