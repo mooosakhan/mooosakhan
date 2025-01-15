@@ -20,6 +20,7 @@
 <p align="center">
   <a href="https://github.com/aoaydin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+    <br/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mooosakhan&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
   </a>
 </p>
