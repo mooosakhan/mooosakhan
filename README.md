@@ -17,22 +17,30 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
+<p align="center">
+  <a href="https://github.com/aoaydin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mooosakhan&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+  </a>
+</p>
+
+<!--
 <div align="center">
-  <!-- Current Stats -->
+
   <picture>
-    <!-- For dark theme -->
+
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
-    <!-- For light theme -->
+ 
    
   </picture>
   <br>
-  <!-- Additional Stats Display -->
+ 
 
 </div>
-
+-->
 
 
 <br>
@@ -135,12 +143,7 @@
 
 
 </div>
-
-
-<br>
-
-<!--
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -150,23 +153,19 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true" />
-</picture>
-
-
-<div align="center">
+</picture>-->
  <!--
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
-    <!-- For light theme -->
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=default"
       alt="GitHub Streak"
-    />
-  </picture>
-</div>-->
+    /></picture></div>-->
+    <!-- For light theme -->
 
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/>
