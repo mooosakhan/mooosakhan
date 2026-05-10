@@ -44,8 +44,8 @@
 
 <br>
 
-<div align="center">
-  <!-- Tech Stack Section with Animated Border -->
+<!-- <div align="center">
+  
   <div style="border: 2px solid #7F00FF; border-radius: 10px; padding: 20px; background: linear-gradient(45deg, #000428, #004e92);">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
@@ -59,7 +59,7 @@
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   </div>
-</div>
+</div> -->
 
 <br>
 
